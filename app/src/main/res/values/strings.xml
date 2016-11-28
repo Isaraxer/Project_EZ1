@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_EZ</string>
+    <string name="btn1Name">Chickago</string>
+    <string name="btn2Name">Los Angeles</string>
+    <string name="toastText1">You were arested.</string>
+    <string name="toastText2">YOU'RE FUCKED UP!</string>
+</resources>
